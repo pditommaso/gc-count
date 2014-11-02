@@ -1,7 +1,10 @@
 A Groovy vs Java benchmark  
 ============================
 
-A performance comparison between Java a Groovy counting G,C,A,T nucleotides in a genome file.
+A performance comparison between Java a Groovy.
+
+It reads a genome file (~ 1_000_000 lines in a text file) counting G,C,A,T nucleotides 
+(i.e. occurrence of that characters).
 
 Result (Mac Book Pro 2.7 GHz Intel Core i7):
 
